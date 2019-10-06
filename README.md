@@ -1,6 +1,6 @@
 # Ideal_weight
 
-The ideal weight application provides you with the status of your current weight whether it is a normal weight or not based on the calculation of body mass rate (BMI).
+The ideal weight Android application provides you with the status of your current weight whether it is a normal weight or not based on the calculation of body mass rate (BMI).
 The application calculates the following results:
 
 Body status: slim, normal weight, overweight or obese.
