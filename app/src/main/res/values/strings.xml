@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Ideal weight</string>
+    <string name="bmi_introduction"> Body Mass Index, or BMI, is a measure of body size. It combines a person\'s weight and height. BMI results can give you an idea of ​​whether a person has the correct weight for height..</string>
+    <string name="calculator_not_for_Children">This calculator is not intended for children, pregnant or lactating women. Or athletes like bodybuilders.</string>
+    <string name="calculate_button">Calculate BMI</string>
+    <string name="enter_weight">Enter your weight in KG    </string>
+    <string name="enter_height">Enter your height in CM</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="bmi_equal">BMI = </string>
+
+    <string name="enter_weight_editText_error">Enter your weight</string>
+    <string name="enter_height_editText_error">Enter your height </string>
+
+
+
+
+    <string name="weight_textView">weight=</string>
+    <string name="height_textView">height=</string>
+    <string name="bmi_textView">BMI= </string>
+    <string name="result_textViwe">Result: </string>
+
+    <string name="kg">KG</string>
+    <string name="cm">CM </string>
+
+    <string name="ideal_weight_for_you">Ideal weight for you:  </string>
+    <string name="ideal_weight1"> Your normal weight should be from  </string>
+    <string name="ideal_weight11"> to </string>
+    <string name="ideal_weight_lose"> To reach the normal weight you must lose weight about  </string>
+    <string name="ideal_weight_Increase"> To reach the normal weight you must increase weight about  </string>
+    <string name="ideal_weight_normal"> Congratulations your weight is normal. </string>
+    <string name="ideal_weight3"> Your best ideal weight rate is  </string>
+    <string name="underweight_advice">Underweight: Your weight is low and you need to regularly eat until you reach your ideal weight. </string>
+    <string name="normal_advice">Normal: The result indicates that you get the ideal weight appropriate, so keep this weight and exercise. </string>
+    <string name="overweight_advice">Overweight: You are overweight, exercise until you get the perfect weight. </string>
+    <string name="obese_advice">Obese: You suffer from obesity that may harm you; you should exercise with a commitment to a healthy diet </string>
+
+
+
+
+</resources>

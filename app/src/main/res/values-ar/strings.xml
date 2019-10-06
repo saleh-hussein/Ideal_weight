@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الوزن المثالي</string>
+    <string name="bmi_introduction">مؤشر كتلة الجسم ، أو BMI ، هو مقياس لحجم الجسم. فهو يجمع بين وزن الشخص وطوله. يمكن أن تعطي نتائج قياس مؤشر كتلة الجسم فكرة عما إذا كان لدى الشخص الوزن الصحيح لطوله.</string>
+    <string name="calculate_button">BMI احسب كتلة الجسم</string>
+    <string name="calculator_not_for_Children">هذه الحاسبة غير معدة للأطفال، النساء الحوامل أو المرضعات. أو الرياضيين مثل كمال الاجسام.</string>
+    <string name="enter_height">أدخل الطول بالسنتيمتر</string>
+    <string name="enter_weight">أدخل الوزن بالكيلوغرام</string>
+    <string name="normal">وزن طبيعي</string>
+    <string name="obese">سمنة مفرطة</string>
+    <string name="overweight">زيادة في الوزن</string>
+    <string name="underweight">نحافة</string>
+    <string name="bmi_equal">"مؤشر كتلة الجسم BMI = "</string>
+    <string name="bmi_textView">"مؤشر كتلة الجسم BMI = "</string>
+    <string name="height_textView">الطول=</string>
+    <string name="ideal_weight1">وزنك الطبيعي يجب أن يكون من  </string>
+    <string name="ideal_weight11"> إلى  </string>
+    <string name="ideal_weight3">معدل أفضل وزن مثالي لك هو </string>
+    <string name="ideal_weight_for_you">الوزن المثالي لك:</string>
+    <string name="result_textViwe">حالة الجسم:</string>
+    <string name="weight_textView">"الوزن= "</string>
+    <string name="cm">سم</string>
+    <string name="kg">كغم</string>
+    <string name="normal_advice">طبيعي: تشير النتيجة الى حصولك على الوزن المثالي المناسب، فحافظ على هذا الوزن ومارس الرياضة.</string>
+    <string name="overweight_advice">زيادة في الوزن: أنت تعاني قليل من السمنة، عليك بممارسة الرياضة حتى تحصل على الوزن المثالي.</string>
+    <string name="obese_advice">سمنة: أنت تعاني من السمنة المفرطة والتي قد تضر بك، فعليك بممارسة الرياضة مع الالتزام بالحمية الغذائية الصحية.</string>
+    <string name="underweight_advice">نحيف: وزنك ضعيف وتحتاج إلى الانتظام بتناول الغذاء حتى تصل للوزن المثالي.</string>
+    <string name="ideal_weight_lose">"للوصول إلى الوزن الطبيعي يجب عليك إنقاص وزنك حوالي "</string>
+    <string name="ideal_weight_Increase">"للوصول إلى الوزن الطبيعي يجب عليك زيادة وزنك حوالي "</string>
+    <string name="ideal_weight_normal">مبروك وزنك طبيعي.</string>
+    <string name="enter_height_editText_error">أدخل الطول</string>
+    <string name="enter_weight_editText_error">أدخل الوزن</string>
+
+
+</resources>
